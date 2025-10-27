@@ -22,6 +22,16 @@ pip install pandas numpy scikit-learn matplotlib seaborn yfinance joblib
 
 ---
 
+* streamlit
+* pandas
+* numpy
+* scikit-learn
+* joblib
+* yfinance
+* matplotlib
+* seaborn
+
+
 ##  Workflow
 
 ### 1️. Data Collection
@@ -133,3 +143,4 @@ plt.show()
 * Add **technical indicators** (RSI, MACD, Bollinger Bands)
 * Try **LSTM/GRU models** for time-series forecasting
 * Deploy a **Streamlit dashboard** for real-time prediction visualization
+
